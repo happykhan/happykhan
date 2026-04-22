@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nabil-Fareed Alikhan</h1>
+<h1 align="center">Nabil-Fareed Alikhan</h1>
 
 <p align="center">
   <em>Senior Bioinformatician · Centre for Genomic Pathogen Surveillance · University of Oxford</em>
@@ -8,35 +8,42 @@
   <a href="https://www.happykhan.com"><img src="https://img.shields.io/badge/happykhan.com-000000?style=flat&logo=firefox&logoColor=white" /></a>
   <a href="https://mstdn.science/@happykhan"><img src="https://img.shields.io/badge/@happykhan@mstdn.science-6364FF?style=flat&logo=mastodon&logoColor=white" /></a>
   <a href="https://orcid.org/0000-0002-1243-0767"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
-  <a href="https://cgps.group"><img src="https://img.shields.io/badge/CGPS-University_of_Oxford-003865?style=flat" /></a>
+  <a href="https://cgps.group"><img src="https://img.shields.io/badge/CGPS-Oxford-003865?style=flat" /></a>
 </p>
 
 ---
 
-I am a Senior Bioinformatician at the [Centre for Genomic Pathogen Surveillance](https://cgps.group), University of Oxford. My work is about building tools and platforms that help public health teams and researchers get real answers from pathogen genome data.
+I build open-source bioinformatics tools and genomic surveillance platforms. My software is used in 165 countries and has accumulated 11,687 citations.
 
-I contribute to [Pathogenwatch](https://pathogen.watch) — used by 14,389 people in 165 countries to interpret pathogen genomes for surveillance and outbreak response — and to [EnteroBase](https://enterobase.warwick.ac.uk), a genome database covering hundreds of thousands of bacterial genomes. I also co-host the [MicroBinfie Podcast](https://microbinfie.github.io) on microbial bioinformatics, and founded [mstdn.science](https://mstdn.science), a Mastodon instance for the scientific community.
-
-Before Oxford, I was Interim Head of Informatics at Quadram Institute Bioscience, where I led the SARS-CoV-2 surge sequencing programme (£4.5M project value, 80,000+ genomes released through COG-UK). Earlier I worked with Mark Achtman at Warwick, helping build and analyse a collection of 10,000 Salmonella genomes and integrating ancient metagenomes into EnteroBase. My PhD (University of Queensland, 2015) focused on E. coli virulence and genome comparisons.
-
-My work has 11,687 citations and an h-index of 30.
+I am a Senior Bioinformatician at the [Centre for Genomic Pathogen Surveillance](https://cgps.group), University of Oxford. Before that I was Interim Head of Informatics at Quadram Institute Bioscience, where I led the SARS-CoV-2 surge sequencing programme (80,000+ genomes released through COG-UK, £4.5M project value). I completed my PhD at the University of Queensland in 2015 under Scott Beatson, where one of the tools I wrote — BRIG — went on to accumulate over 3,000 citations and is still in active use. I also co-host the [MicroBinfie Podcast](https://microbinfie.github.io) on microbial bioinformatics, and founded [mstdn.science](https://mstdn.science), a Mastodon instance for the scientific community.
 
 ---
 
 ## Software
 
-| Project | What it does |
-|---------|-------------|
-| [GrapeTree](https://github.com/achtman-lab/GrapeTree) | Rapid visualisation of genome relationships by NJ or minimum spanning trees of SNPs or MLST data |
-| [BRIG](https://github.com/happykhan/BRIG) | Circular genome comparison images using BLAST — cross-platform desktop application, 3,000+ citations |
-| [QualiBact](https://github.com/happykhan/qualibact) | Species-specific genome assembly QC cutoffs |
-| [GenomicX](https://genomicx.org) | Established bioinformatics tools (minimap2, Mash, samtools) running entirely in the browser via WebAssembly |
+| Project | What it does | Stars |
+|---------|-------------|-------|
+| [GrapeTree](https://github.com/achtman-lab/GrapeTree) | Rapid visualisation of genome relationships by NJ or minimum spanning trees of SNPs or MLST data | ⭐ 87 |
+| [BRIG](https://github.com/happykhan/BRIG) | Circular genome comparison images using BLAST — cross-platform, 3,000+ citations | ⭐ 47 |
+| [QualiBact](https://github.com/happykhan/qualibact) | Species-specific genome assembly QC cutoffs | ⭐ 14 |
+| [GenomicX](https://genomicx.org) | Bioinformatics tools (minimap2, Mash, samtools) running in the browser via WebAssembly — no install, no server |  |
 
 ---
 
-## Links
+## Selected publications
 
-- Personal site and research notes: [happykhan.com](https://www.happykhan.com)
-- ORCID: [0000-0002-1243-0767](https://orcid.org/0000-0002-1243-0767)
-- Mastodon: [@happykhan@mstdn.science](https://mstdn.science/@happykhan)
-- Email: nabil@happykhan.com
+- **BRIG** — Alikhan et al. (2011) *BMC Genomics* · 3,000+ citations
+- **Salmonella population structure** — Alikhan et al. (2018) *PLoS Genetics* · 315+ citations
+- **GrapeTree** — Zhou, Alikhan et al. (2018) *Genome Research* · 307+ citations
+- **EnteroBase User's Guide** — Zhou, Alikhan et al. (2020) *Genome Research* · 281+ citations
+
+Full list at [ORCID 0000-0002-1243-0767](https://orcid.org/0000-0002-1243-0767) · h-index 30
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=happykhan&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happykhan&layout=compact&hide_border=true&theme=default" height="165" />
+</p>
