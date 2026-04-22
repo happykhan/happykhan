@@ -1,43 +1,36 @@
 <h1 align="center">Nabil-Fareed Alikhan</h1>
 
 <p align="center">
-  <em>Senior Bioinformatician · Centre for Genomic Pathogen Surveillance · University of Oxford</em>
+  <em>Bioinformatics researcher and software developer · University of Oxford</em>
 </p>
 
 <p align="center">
   <a href="https://www.happykhan.com"><img src="https://img.shields.io/badge/happykhan.com-000000?style=flat&logo=firefox&logoColor=white" /></a>
   <a href="https://mstdn.science/@happykhan"><img src="https://img.shields.io/badge/@happykhan@mstdn.science-6364FF?style=flat&logo=mastodon&logoColor=white" /></a>
   <a href="https://orcid.org/0000-0002-1243-0767"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
-  <a href="https://cgps.group"><img src="https://img.shields.io/badge/CGPS-Oxford-003865?style=flat" /></a>
 </p>
 
 ---
 
-I build open-source bioinformatics tools and genomic surveillance platforms. My software is used in 165 countries and has accumulated 11,687 citations.
+I write software for microbial genomics — desktop tools, web apps, browser-native bioinformatics via WebAssembly, and data pipelines. My tools are used in 165 countries and have accumulated 3,000+ citations for BRIG alone.
 
-I am a Senior Bioinformatician at the [Centre for Genomic Pathogen Surveillance](https://cgps.group), University of Oxford. Before that I was Interim Head of Informatics at Quadram Institute Bioscience, where I led the SARS-CoV-2 surge sequencing programme (80,000+ genomes released through COG-UK, £4.5M project value). I completed my PhD at the University of Queensland in 2015 under Scott Beatson, where one of the tools I wrote — BRIG — went on to accumulate over 3,000 citations and is still in active use. I also co-host the [MicroBinfie Podcast](https://microbinfie.github.io) on microbial bioinformatics, and founded [mstdn.science](https://mstdn.science), a Mastodon instance for the scientific community.
-
----
-
-## Software
-
-| Project | What it does | Stars |
-|---------|-------------|-------|
-| [GrapeTree](https://github.com/achtman-lab/GrapeTree) | Rapid visualisation of genome relationships by NJ or minimum spanning trees of SNPs or MLST data | ⭐ 87 |
-| [BRIG](https://github.com/happykhan/BRIG) | Circular genome comparison images using BLAST — cross-platform, 3,000+ citations | ⭐ 47 |
-| [QualiBact](https://github.com/happykhan/qualibact) | Species-specific genome assembly QC cutoffs | ⭐ 14 |
-| [GenomicX](https://genomicx.org) | Bioinformatics tools (minimap2, Mash, samtools) running in the browser via WebAssembly — no install, no server |  |
+**Languages:** Python · JavaScript · TypeScript · Java · Go · R · Bash  
+**Web:** React · Vite · Svelte · Cloudflare Workers · WebAssembly (Emscripten)  
+**Bioinformatics stack:** Nextflow · Snakemake · BLAST · Mash · MLST · AMRFinderPlus
 
 ---
 
-## Selected publications
+## Projects
 
-- **BRIG** — Alikhan et al. (2011) *BMC Genomics* · 3,000+ citations
-- **Salmonella population structure** — Alikhan et al. (2018) *PLoS Genetics* · 315+ citations
-- **GrapeTree** — Zhou, Alikhan et al. (2018) *Genome Research* · 307+ citations
-- **EnteroBase User's Guide** — Zhou, Alikhan et al. (2020) *Genome Research* · 281+ citations
-
-Full list at [ORCID 0000-0002-1243-0767](https://orcid.org/0000-0002-1243-0767) · h-index 30
+| Project | Stack | What it does |
+|---------|-------|-------------|
+| [GrapeTree](https://github.com/achtman-lab/GrapeTree) | Python · JS | Minimum spanning tree visualisation for large genome collections · ⭐ 87 |
+| [BRIG](https://github.com/happykhan/BRIG) | Java | Cross-platform circular genome comparisons via BLAST · ⭐ 47 · 3,000+ citations |
+| [GenomicX](https://genomicx.org) | WebAssembly · Svelte | minimap2, Mash, samtools compiled to WASM — runs in the browser, no install, no server |
+| [QualiBact](https://github.com/happykhan/qualibact) | Python | Species-specific genome assembly QC thresholds · ⭐ 14 |
+| [gantt-app](https://github.com/happykhan/gantt-app) | React · Vite | Browser-based Gantt chart builder with CSV/Excel import and SVG/PDF export |
+| [Genomic Costing Tool](https://github.com/happykhan/genomicscost) | TypeScript | Web implementation of the WHO GCT v2 — NGS programme cost estimation |
+| [atb-cli](https://github.com/happykhan/atb-cli-claude) | Go | CLI for querying and downloading from the AllTheBacteria database |
 
 ---
 
@@ -47,3 +40,7 @@ Full list at [ORCID 0000-0002-1243-0767](https://orcid.org/0000-0002-1243-0767) 
   <img src="https://github-readme-stats.vercel.app/api?username=happykhan&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happykhan&layout=compact&hide_border=true&theme=default" height="165" />
 </p>
+
+---
+
+**Web:** [happykhan.com](https://www.happykhan.com) · **Email:** nabil@happykhan.com · **ORCID:** [0000-0002-1243-0767](https://orcid.org/0000-0002-1243-0767)
